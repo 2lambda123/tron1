@@ -3,9 +3,9 @@
 ## Tech Stack
 2lambda123/tron1 is built on the following main stack:
 
+- [AutoIt](https://www.autoitscript.com/) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- [AutoIt](https://www.autoitscript.com/) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -15,9 +15,9 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/tron1 is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/4174/ld3itFbL_400x400.jpg' alt='AutoIt'/> [AutoIt](https://www.autoitscript.com/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4174/ld3itFbL_400x400.jpg' alt='AutoIt'/> [AutoIt](https://www.autoitscript.com/) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/tron1](https://github.com/2lambda123/tron1)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|01/09/24 <br/>Report generated|
+|4<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
